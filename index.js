@@ -15,6 +15,7 @@ class Dog {
     this.name = name;
     this.sex = sex;
   }
+  
 }
 
 class Bird {
