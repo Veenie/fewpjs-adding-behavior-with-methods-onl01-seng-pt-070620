@@ -1,22 +1,22 @@
 // Your code here
 
 class Cat {
-  constructor(food, drink) {
-    this.food = food;
-    this.drink = drink;
+  constructor(name, sex) {
+    this.name = name;
+    this.sex = sex;
   }
 }
 
 class Dog {
-  constructor(food, drink) {
-    this.food = food;
-    this.drink = drink;
+  constructor(name, sex) {
+    this.name = name;
+    this.sex = sex;
   }
 }
 
 class Bird {
-  constructor(food, drink) {
-    this.food = food;
-    this.drink = drink;
+  constructor(name, sex) {
+    this.name = name;
+    this.sex = sex;
   }
 }
